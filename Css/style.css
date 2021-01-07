@@ -1,0 +1,34 @@
+.footer {
+  color: white;
+  padding: 20px 50px 10px 50px;
+  background-color: #0da2a6;
+}
+
+.carousel-item img {
+  position: center;
+  height: 600px;
+  width: 100%;
+}
+
+.pd {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#imgResize {
+  height: 400px;
+  width: 350px;
+}
+
+/* @media only screen and (min-width: 992px) {
+  .parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: screen;
+    background-image: url("ground.jpg");
+    background-color: rgb(241, 185, 178);
+    min-height: 1000px;
+  }
+} */
